@@ -25,7 +25,7 @@
     "clmtrackr": "^1.1.2",
     "core-js": "^2.4.1",
     "rxjs": "^5.5.2",
-    "three": "^0.88.0",
+    "three": "^0.118.3",
     "three-collada-loader": "0.0.1",
     "zone.js": "^0.8.14"
   },
